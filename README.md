@@ -84,9 +84,7 @@ run. In `package.json`, replace the `scripts` `test` key value with the
 following:
 
 ```
-"scripts": {
-  "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
-},
+
 ```
 
 Try running `npm test` now. Everything should be working and our browser should
