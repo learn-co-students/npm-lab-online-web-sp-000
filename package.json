@@ -1,0 +1,23 @@
+{
+  "name": "npm-lab-online-web-sp-000",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abogailo/npm-lab-online-web-sp-000.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abogailo/npm-lab-online-web-sp-000/issues"
+  },
+  "homepage": "https://github.com/abogailo/npm-lab-online-web-sp-000#readme"
+}
