@@ -8,7 +8,7 @@ our ability to use the tools built for us by others. As it turns out, most of
 those tools are _also_ built using _other people's_ tools. One package may be
 used in another, which is used in another, and another, and so on...
 
-Using npm, we download specific packages of code. If those packages have
+Using npm, we download specific packagescd . of code. If those packages have
 dependencies, the dependencies are also downloaded in a recursive manner. For
 the purposes of our own application, however, **we only need to know about the
 node packages _we_ specifically need to get our app working**. We don't need to
