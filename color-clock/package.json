@@ -1,0 +1,17 @@
+{
+  "name": "color-clock-app",
+  "version": "1.0.0",
+  "description": "testing npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hola Mundo!'"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "otto cedeno",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
+}
