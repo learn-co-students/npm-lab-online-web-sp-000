@@ -133,7 +133,7 @@ JavaScripts built-in functions.
 
 Let's install Moment.js and incorporate into our clock. To install a package and save it to your `package.json` file, run `npm install`
 followed by the package name. In our case, that would be:
-
+1
 ```bash
 npm install moment
 ```
