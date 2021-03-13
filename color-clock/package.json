@@ -1,0 +1,14 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "display time ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo '123 testing testing' "
+  },
+  "author": "khoi",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
