@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "color-clock-lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlisonW417/npm-lab-online-web-sp-000.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlisonW417/npm-lab-online-web-sp-000/issues"
+  },
+  "homepage": "https://github.com/AlisonW417/npm-lab-online-web-sp-000#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
